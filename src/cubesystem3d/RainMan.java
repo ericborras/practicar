@@ -16,6 +16,7 @@ public class RainMan {
             // Hola bon diaff
             int i=0;
             i++;
+		i++;
     }
 
     public int getDay() {
